@@ -34,5 +34,5 @@ https://docs.google.com/presentation/d/1ir4KejT73GveUNsua_SGfzsS0Difz73e/edit?us
 
 ## Video Demo 
 
-Please provide a link to a video demo of your project. The demo should be no longer than 5 minutes.
+https://youtu.be/BzdTxaz_Z0Q
 
