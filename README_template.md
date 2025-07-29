@@ -30,7 +30,7 @@ The more concrete and detailed your explanation, the better we can assess your c
 https://info.cs.st-andrews.ac.uk/student-handbook/files/project-library/cs4796/gf45-Final_Report.pdf [page 40]
 
 ## Presentaion Slide
-Please provide a link to a presentation slide of your project. Alternatively, you may upload your slide deck (max 25 slides) as a .pdf file directly into your project folder.
+https://docs.google.com/presentation/d/1ir4KejT73GveUNsua_SGfzsS0Difz73e/edit?usp=sharing&ouid=108077557850721146167&rtpof=true&sd=true
 
 ## Video Demo 
 
