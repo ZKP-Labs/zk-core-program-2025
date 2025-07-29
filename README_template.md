@@ -1,16 +1,14 @@
-# {Project Name}
-
-Enter the name of your project above and provide a brief description of your project including what is the impact for the ecosystem or society.
+# SECURE REMOTE PASSWORD
 
 ## Team Information
-**Group:** [xyz]
+**Group:** [9]
 
 **Members**
 
-- Name: {Full Name}
-  - Discord Username: {username}
-  - Github Username: {username}
-  - Role: {Role}
+- Name: Lê Tuấn Anh
+- Name: Hoàng Xuân Việt
+
+  
 
 ## Technical Report
 
@@ -29,7 +27,7 @@ The more concrete and detailed your explanation, the better we can assess your c
 
 ## References
 
-Please provide references to any relevant documentation, code, or other resources that you've used in your project.
+https://info.cs.st-andrews.ac.uk/student-handbook/files/project-library/cs4796/gf45-Final_Report.pdf [page 40]
 
 ## Presentaion Slide
 Please provide a link to a presentation slide of your project. Alternatively, you may upload your slide deck (max 25 slides) as a .pdf file directly into your project folder.
