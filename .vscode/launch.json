@@ -13,6 +13,8 @@
                 "<node_internals>/**"
             ],
             "program": "${workspaceFolder}\\zk-auth\\server\\server.js"
+            
+            // "runtimeExecutable": "D:\\nodejs\\node.exe",
         }
     ],
     

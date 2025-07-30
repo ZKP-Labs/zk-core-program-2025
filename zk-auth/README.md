@@ -45,14 +45,24 @@ Thành phần kỹ thuật & công nghệ sử dụng
 
 ## Project Outcomes and Reflections
 
-- **Project Impact and Benefits** : Reflect on the key benefits and outcomes of the project. 
-- **Notable Insights and Experiences** : Share the most interesting or surprising discoveries you made while working on the project. 
-- **Challenges Faced** : Discuss the main difficulties encountered during the project. How did you overcome them, and what did you learn from those experiences?
-- **Thoughts on Zero-Knowledge Proofs and Their Applications** : Provide your perspective on ZKPs — what you found compelling, challenging, or promising. Comment on their practical use cases and potential impact in fields such as privacy, blockchain, or secure computation.
+- **Bảo mật cao**: Không cần lưu thông tin nhạy cảm như email hay số điện thoại.
+- **Riêng tư tuyệt đối**: Người dùng kiểm soát danh tính của mình.
+- Việc tạo và debug circuit bằng Circom là thách thức nhưng rất trực quan nếu hiểu luồng logic.
+- Ngạc nhiên khi hệ thống vẫn cho phép xác thực mà không cần lưu bất kỳ thông tin thật nào.
+
+- Làm chủ Circom syntax và quy trình setup-trusted trong ZKP khá phức tạp.
+- Khó khăn khi kết nối giữa frontend ↔ QR ↔ mobile ↔ backend.
+- Xử lý các lỗi khi verify ZKP trong backend (Groth16 yêu cầu setup cẩn thận).
+
+- Sử dụng repo mẫu, tham khảo tài liệu từ Iden3 & Polygon.
+- Test mỗi phần riêng biệt trước khi tích hợp.
+
 
 ## References
 
-Standby
+- [Iden3 Documentation](https://iden3-docs.readthedocs.io/en/latest/)
+- [Circom Guide](https://docs.circom.io/)
+- [Plonk](https://zkplabs.network/blog/Introduce-PLONK-Revolutionizing-ZK-SNARK-Technology-for-Efficiency-and-Privacy)
 
 ## Presentaion Slide
 [ZKA_Group8](https://www.canva.com/design/DAGum_sHdH4/bLmtpLjg4mW0gjYubAHUiQ/edit?utm_content=DAGum_sHdH4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
