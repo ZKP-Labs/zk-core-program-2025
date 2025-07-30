@@ -37,4 +37,3 @@ Please provide a link to a presentation slide of your project. Alternatively, yo
 ## Video Demo 
 
 Please provide a link to a video demo of your project. The demo should be no longer than 5 minutes.
-
