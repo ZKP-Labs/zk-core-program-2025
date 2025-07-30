@@ -1,0 +1,109 @@
+@use '../abstracts/' as *;
+
+.auth {
+    width: 100dvw;
+    height: 100dvh;
+    background-color: $color-primary;
+    @include flex-layout();
+
+    &__container {
+        @include flex-layout(flex, center, center, column);
+        gap: 15px;
+        height: 100%;
+        width: 350px;
+    }
+
+    &__title {
+        width: 100%;
+        color: $color-text-high-light;
+        font-size: 52px;
+        text-align: center;
+        @include font-inter('Bebas Neue', 400, normal);
+    }
+
+    &__field-container {
+        width: 100%;
+        gap: 10px;
+        border-radius: 2px;
+        width: 100%;
+        background-color: white;
+        @include flex-layout();
+    }
+
+    &__field {
+        outline: none;
+        border: none;
+        width: 90%;
+        font-size: 16px;
+        font-weight: 500;
+        padding: 15px 0;
+        background-color: white;
+    }
+
+    &__remember {
+        width: 100%;
+        @include flex-layout(flex, space-between, center);
+        color: white;
+
+        label, p {
+            cursor: pointer;
+            transition: .3s ease;
+        }
+
+        &-checkbox {
+            display: flex;
+            gap: 5px;
+        }
+
+        &-checkbox:hover, &-forgot:hover {
+            cursor: pointer;
+            color: $color-secondary;
+        }
+    }
+
+    &__button {
+        background-color: $color-secondary;
+        border: none;
+        width: 100%;
+        padding: 15px 15px;
+        border-radius: 2px;
+        font-size: 18px;
+        font-weight: 500;
+        color: white;
+        transition: .3s ease;
+
+        &:hover {
+            width: 103%;
+        }
+    }
+
+    &__liner {
+        width: 100%;
+        @include flex-layout(flex, center, center);
+        gap: 10px;
+        
+    }
+
+    &__line {
+        width: 90%;
+        height: 1px;
+        border: none;
+        background-color: white;
+    }
+
+    &__line-text {
+        color: white;;
+    }
+
+    &__linker {
+        width: 100%;
+        text-align: center;
+        color: white;
+        transition: .3s ease;
+
+        &:hover {
+            cursor: pointer;
+            color: $color-secondary;
+        }
+    }
+}

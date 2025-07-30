@@ -1,0 +1,42 @@
+@use '../abstracts/functions' as *;
+
+// Breakpoints
+$screen-small: 576px;       // mobile
+$screen-medium: 768px;      // tablet
+$screen-large: 1024px;      // desktop
+
+// Font-size
+$font-size-small: pxToRem(14);
+$font-size-medium: pxToRem(16);
+$font-size-large: pxToRem(18);
+$font-size-xlarge: pxToRem(22);
+
+// Color
+$color-primary:         #0F172A;
+$color-secondary:       #38BDF8;
+$color-background:      #F8FAFC;
+$color-muted:           #6c757d;
+
+$color-btn-primary:     #F8FAFC;
+$color-btn-secondary:   #38BDF8;
+
+$color-primary-hover:   #eef3f9;
+$color-secondary-hover: #2fb3eb;
+
+$color-text:            #1F2937;
+$color-text-light:      #F8FAFC;
+$color-text-high-light: #38BDF8;
+$color-secondary-text:  #6c757d;
+
+// Warning
+$color-success:    #0a6b2e;
+$color-success-bg:    #81f1aa;
+$color-error:      #da2a2a;
+$color-error-bg:      #f7b4b4;
+    
+// Stroke
+$stroke-color-default: #020203;
+$stroke-color-secondary: #a0a0a02d;
+$stroke-color-primary: #a0a0a0;
+$stroke-color-hover: #38BDF8;
+$stroke-color-error: #EF4444;
