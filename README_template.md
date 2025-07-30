@@ -6,7 +6,7 @@
 **Members**
 
 - Name: Lê Tuấn Anh
-- Name: Hoàng Xuân Việt
+- Name: Nguyễn Hoàng Việt
 
   
 
