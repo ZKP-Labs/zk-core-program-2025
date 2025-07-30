@@ -1,0 +1,34 @@
+[
+  {
+    "email": "grace@finance.company.com",
+    "secret": "1234"
+  },
+  {
+    "email": "harry@finance.company.com",
+    "secret": "1234"
+  },
+  {
+    "email": "grace1@finance.company.com",
+    "secret": "123"
+  },
+  {
+    "email": "grace2@finance.company.com",
+    "secret": "123"
+  },
+  {
+    "email": "grace3@finance.company.com",
+    "secret": "123"
+  },
+  {
+    "email": "grace5@finance.company.com",
+    "secret": "123"
+  },
+  {
+    "email": "grace6@finance.company.com",
+    "secret": "123"
+  },
+  {
+    "email": "grace7@finance.company.com",
+    "secret": "123"
+  }
+]
