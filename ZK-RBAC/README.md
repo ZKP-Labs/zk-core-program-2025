@@ -14,49 +14,49 @@ This system addresses security and privacy issues in modern enterprise environme
 - **Wide Application**: Can be applied in organizations, enterprises, and distributed systems to manage access control securely
 
 ## Team Information
-**Group:** [3]
+**Group:** 3
 
 **Members**
 
-- Name: {Ngô Tấn Phước}
-  - Discord Username: {TanPhuoc}
-  - Github Username: {ngotanphuoc}
-  - Role: {Member}
+- Name: Ngô Tấn Phước
+  - Discord Username: TanPhuoc
+  - Github Username: ngotanphuoc
+  - Role: Member
 
-- Name: {Nguyễn Trung Nguyên}
-  - Discord Username: {NTNguyen}
-  - Github Username: {NTNguyen055}
-  - Role: {Leader}
+- Name: Nguyễn Trung Nguyên
+  - Discord Username: NTNguyen
+  - Github Username: NTNguyen055
+  - Role: Leader
 
-- Name: {Trần Nhơn Nhật}
-  - Discord Username: {Nhat}
-  - Github Username: {trannhatbuilder}
-  - Role: {Member}
+- Name: Trần Nhơn Nhật
+  - Discord Username: Nhat
+  - Github Username: trannhatbuilder
+  - Role: Member
 
-- Name: {Phạm Thanh Doãn}
-  - Discord Username: {doanasd}
-  - Github Username: {}
-  - Role: {Member}
+- Name: Phạm Thanh Doãn
+  - Discord Username: doanasd
+  - Github Username: doanasd
+  - Role: Member
 
-- Name: {Trần Công Tường}
-  - Discord Username: {congtuong0411}
-  - Github Username: {congtuong04}
-  - Role: {Member}
+- Name: Trần Công Tường
+  - Discord Username: congtuong0411
+  - Github Username: congtuong04
+  - Role: Member
 
-- Name: {Nguyễn Viết Khang}
-  - Discord Username: {khangtumu123}
-  - Github Username: {khangng04}
-  - Role: {Member}
+- Name: Nguyễn Viết Khang
+  - Discord Username: khangtumu123
+  - Github Username: khangng04
+  - Role: Member
 
-- Name: {Trần Ngọc Thành}
-  - Discord Username: {thanh24024}
-  - Github Username: {NgocTahn24024}
-  - Role: {Member}
+- Name: Trần Ngọc Thành
+  - Discord Username: thanh24024
+  - Github Username: NgocTahn24024
+  - Role: Member
 
-- Name: {Phan Minh Quân}
-  - Discord Username: {phanquan277}
-  - Github Username: {phanquan277github}
-  - Role: {Member}
+- Name: Phan Minh Quân
+  - Discord Username: phanquan277
+  - Github Username: phanquan277github
+  - Role: Member
 
 
 ## Technical Report
