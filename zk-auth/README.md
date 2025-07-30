@@ -19,11 +19,29 @@ Enter the name of your project above and provide a brief description of your pro
 
 ## Technical Report
 
-- Provide a clear description of the real-world problem your project addresses. Explain the motivation behind the project, the limitations of existing solutions (if any)
-- Describe your proposed approach and explain how your system addresses and solves the identified problem.
-- High-level outline of the main technical components, tech you used and approaches used in the project.
+Vấn đề thực tế
+Trong hệ thống xác thực truyền thống, người dùng buộc phải cung cấp thông tin nhạy cảm như email, số điện thoại, hoặc mật khẩu để đăng nhập và đăng ký. Điều này tạo ra các rủi ro nghiêm trọng như:
+- Rò rỉ dữ liệu người dùng do bị tấn công
+- Các cuộc tấn công phishing, xác thực giả mạo
+- Vi phạm quyền riêng tư, đặc biệt trong ứng dụng blockchain/web3
 
-The more concrete and detailed your explanation, the better we can assess your contributions.
+Động lực & giới hạn giải pháp hiện tại
+- Động lực: Tạo một hệ thống xác thực phi tập trung, không cần chia sẻ thông tin cá nhân, vẫn đảm bảo tính hợp lệ.
+- Giới hạn của giải pháp hiện tại: OAuth, OTP hay JWT đều dựa vào sự tin tưởng vào bên thứ ba và lưu trữ trạng thái người dùng, gây lộ thông tin khi bị xâm nhập.
+
+Giải pháp đề xuất — ZKAuth
+Hệ thống ZKAuth cho phép người dùng chứng minh danh tính mà không cần tiết lộ dữ liệu cá nhân, nhờ vào công nghệ Zero-Knowledge Proof (ZKP). Quy trình chính:
+- Người dùng tạo bằng chứng ZKP trên điện thoại (qua app)
+- Gửi bằng chứng này cho backend qua QR/code link
+- Backend xác minh bằng chứng (không cần biết thông tin cá nhân)
+- Nếu hợp lệ → cấp quyền truy cập
+
+Thành phần kỹ thuật & công nghệ sử dụng
+| Thành phần | Công nghệ sử dụng | 
+| Frontend | Next.js, Tailwind CSS | 
+| Backend | Node.js + Express, go-iden3-auth | 
+| ZKP Circuit | Circom, SnarkJS, Groth16 | 
+| Database | MongoDB Atlas | 
 
 ## Project Outcomes and Reflections
 
