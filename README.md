@@ -16,14 +16,14 @@
 zkcaptcha uses Zero-Knowledge Proof technology to generate and verify CAPTCHAs, enhancing user security and privacy.
 
 ## Members
-Le Thanh Loi (Leader)
-Le Pham Thao Nguyen
-Nguyen Van An
-Nguyen Dinh Khanh
-Bui Huynh Phuoc Tai
-Nguyen Thi Hoang Anh
-Le Tran Tuan Khanh
-Tran Nhat Minh
+1. **Le Thanh Loi** *(Leader)*
+2. **Le Pham Thao Nguyen**
+3. **Nguyen Van An**
+4. **Nguyen Dinh Khanh**
+5. **Bui Huynh Phuoc Tai**
+6. **Nguyen Thi Hoang Anh**
+7. **Le Tran Tuan Khanh**
+8. **Tran Nhat Minh**
 
 ## Slide And Video
 [Link to the document](https://docs.google.com/document/d/1s4YPkDboCtVlfuBE1mXsIoCqJTd05gksDcGsPcBKezE/edit?usp=sharing)
