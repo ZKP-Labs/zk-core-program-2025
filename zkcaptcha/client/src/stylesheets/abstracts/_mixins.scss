@@ -1,0 +1,40 @@
+@use '../abstracts//variables' as *;
+@use 'sass:list';
+
+// Responsive mixins for media queries
+@mixin respond($breakpoints...) {
+    @if list.index($breakpoints, small) != null {
+        @media (max-width: $screen-small) {
+            @content;
+        }
+    }
+
+    @if list.index($breakpoints, medium) != null {
+        @media (min-width: $screen-small) and (max-width: $screen-medium) {
+            @content;
+        }
+    }
+
+    @if list.index($breakpoints, large) != null {
+        @media (min-width: $screen-large) {
+            @content;
+        }
+    }
+}
+
+// Display
+@mixin flex-layout($display: flex, $justify: center, $align: center, $direction: row) {
+    display: $display;
+    justify-content: $justify;
+    align-items: $align;
+    flex-direction: $direction;
+}
+
+/// Mixin use font Inter with automatic optinal weight
+/// @param {Number} $weight - Value from 100 to 900
+@mixin font-inter($family: 'Inter', $weight: 400, $style: normal) {
+  font-family: $family, sans-serif;
+  font-optical-sizing: auto;
+  font-weight: $weight;
+  font-style: $style;
+}
