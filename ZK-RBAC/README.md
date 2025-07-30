@@ -34,8 +34,8 @@ This system addresses security and privacy issues in modern enterprise environme
   - Role: {Member}
 
 - Name: {Phạm Thanh Doãn}
-  - Discord Username: {TanPhuoc}
-  - Github Username: {ngotanphuoc}
+  - Discord Username: {doanasd}
+  - Github Username: {}
   - Role: {Member}
 
 - Name: {Trần Công Tường}
