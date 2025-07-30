@@ -38,7 +38,7 @@ zkCaptcha is a demo that applies Zero-Knowledge Proofs to CAPTCHA to verify user
   - Role: QA Tester, Documentation Specialist
 
 - Name: Tran Nhat Minh
-  - Discord Username: nhatminh032
+  - Discord Username: minhtn.ns
   - Github Username: minhnh123
   - Role: ZKP Circuit Designer
 
