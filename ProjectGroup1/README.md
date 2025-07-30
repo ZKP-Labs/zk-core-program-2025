@@ -12,54 +12,54 @@ By using ZKPs, we enhance **transparency, trust, and privacy** in digital asset 
 
 ### Members
 
-- **Name**: Nguyễn Khánh Huyền
-  **Discord Username**: update later
-  **GitHub Username**: update later
+- **Name**: Nguyễn Khánh Huyền  
+  **Discord Username**: update later  
+  **GitHub Username**: update later  
   **Role**: Learn practical applications, write a presentation script, participate in circuit design (sum)
 
-- **Name**: Ngô Mậu Hoàng Đức
-  **Discord Username**: update later
-  **GitHub Username**: NgoMauHoangDuc
+- **Name**: Ngô Mậu Hoàng Đức  
+  **Discord Username**: update later  
+  **GitHub Username**: NgoMauHoangDuc  
   **Role**: Participate in circuit design (all non negative), main circuit synthesis, Deeper theory study, building ZK snark verify tool
 
-- **Name**: Mai Tiến Dũng
-  **Discord Username**: dung01118
-  **GitHub Username**: Mtdung290504
+- **Name**: Mai Tiến Dũng  
+  **Discord Username**: dung01118  
+  **GitHub Username**: Mtdung290504  
   **Role**: *Leader* - Participate in circuit design (merkle tree), participate in system design, write library to run zk-SNARK flow, render input, circuit to match dynamic data
 
-- **Name**: Nguyễn Đức Thạnh
-  **Discord Username**: update later
-  **GitHub Username**: update later
+- **Name**: Nguyễn Đức Thạnh  
+  **Discord Username**: update later  
+  **GitHub Username**: update later  
   **Role**: Learn practical applications, Design and build Frontend, Building a simulated blockchain
 
-- **Name**: Nguyễn Văn Hiếu
-  **Discord Username**: mhieu100
-  **GitHub Username**: mhieu100
+- **Name**: Nguyễn Văn Hiếu  
+  **Discord Username**: mhieu100  
+  **GitHub Username**: mhieu100  
   **Role**: Backend API Development, Blockchain Integration, Real-time Transaction Processing, Cryptocurrency Exchange System Implementation
 
-- **Name**: Lê Hoàng Việt
-  **Discord Username**: update later
-  **GitHub Username**: update later
+- **Name**: Lê Hoàng Việt  
+  **Discord Username**: update later  
+  **GitHub Username**: update later  
   **Role**: Build a library to manipulate merkle trees, build a merkle proof verifier
 
-- **Name**: Nguyễn Trung Hiếu
-  **Discord Username**: _chicharito.
-  **GitHub Username**: UsagiiTsukino
+- **Name**: Nguyễn Trung Hiếu  
+  **Discord Username**: _chicharito.  
+  **GitHub Username**: UsagiiTsukino  
   **Role**: Backend API Development, Blockchain Integration, Real-time Transaction Processing, Cryptocurrency Exchange System Implementation
 
-- **Name**: Nguyễn Văn Tiến Dũng
-  **Discord Username**: update later
-  **GitHub Username**: update later
+- **Name**: Nguyễn Văn Tiến Dũng  
+  **Discord Username**: update later  
+  **GitHub Username**: update later  
   **Role**: Learn practical applications
 
-- **Name**: Ngô Trường Minh Hoàng 
-  **Discord Username**: update later
-  **GitHub Username**: update later
+- **Name**: Ngô Trường Minh Hoàng  
+  **Discord Username**: update later  
+  **GitHub Username**: update later  
   **Role**: Learn practical applications, write a presentation script
 
-- **Name**: Lưu Như Thắng
-  **Discord Username**: luoidattenquadi
-  **GitHub Username**:Thangga7
+- **Name**: Lưu Như Thắng  
+  **Discord Username**: luoidattenquadi  
+  **GitHub Username**: Thangga7  
   **Role**: Learn practical applications, Participate in system design, design and build Frontend, Building a simulated blockchain
 
 ---
