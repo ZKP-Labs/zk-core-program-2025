@@ -2,12 +2,5 @@
 node_modules/
 npm-debug.log
 
-# Circom outputs
-*.r1cs
-*.wasm
-*.sym
-*.wtns
-*.json (optional, for input/output files)
-
 # VSCode
 .vscode/
